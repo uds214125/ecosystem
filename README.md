@@ -16,6 +16,9 @@ $ npm install  ( in both folder )
 
 ### Create Database named 'zoo' 
 
+### Restore database ( database dump is inside server folder)
+	$ mongorestore --db=zoo 
+
 $ npm start   ( in both folder )
 
   
